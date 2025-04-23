@@ -1,0 +1,34 @@
+.container{
+    background-color: aqua;
+    height: 40vh;
+    width:300px
+
+}
+.container1{
+    background-color: rebeccapurple;
+    height:100px;
+    width: 20vw;
+
+}
+.parent{
+    background-color: rgb(143, 85, 9);
+    height: 10vh;
+    width:70vw
+}
+.child{
+    background-color: aqua;
+    height:100%
+    width:2%
+
+}
+.div{
+    background-color: rgb(77, 167, 17);
+    min-height: 20hx;
+    width:20vw;
+}
+.div1{
+    background-color: aqua;
+    height:50vh;
+    max-height: 40hx;
+    width:20vw:
+}

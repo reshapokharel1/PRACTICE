@@ -1,0 +1,30 @@
+div{
+   background-color:pink;
+   color:aqua;
+   margin: 200px;
+   padding:5px;
+   border-radius:200px;
+  
+/* yo hamle ahile gareko element selector ho 
+*/
+
+}
+span{
+    background-color:pink;
+}
+#Resha{
+    background-color:aqua;
+    color:black;
+    /* yo chai id selector ho hamle resha use gareko chau
+    yo id ho ra #to activate it */
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    width:10vh;
+    height:200vh;
+}
+
+

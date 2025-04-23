@@ -1,0 +1,18 @@
+
+.navbar{
+    border: 1px solid black
+}
+.navbar .list{
+    list-style: none;
+    border: 1px solid blue;
+}
+.navbar .list li{
+    border: 1px solid green;
+    height: 5vh;
+}
+.list{
+    display: flex;
+    column-gap: 15px;
+    justify-content: center;   
+    align-items: centre;
+}
