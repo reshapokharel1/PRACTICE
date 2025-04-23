@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="em">
+    <head>
+        <meta charset= "utf-8">
+        <meta name = "viewpoint" content = "width=device-width, intitial-scaled=1.0"
+        <title>
+            My Life
+        </title>
+        </head>
+        <body>
+            <h1>Dear Diary</h1>
+            <p>I am resha and welcome to my life.
+               I love sharing my things with you though I forget it almost everyday.
+               It will be two years since I left my house,
+               my loving parents,my annoying brother, for my higher studies.
+               It was quiet chaotic and unusal at first but now, I love this place 
+            </p>
+            <hr>
+            <table border="3">
+                <th>Things and Places I love at KU</th>
+                <tr><td>Things</td>
+                    <td>Places</td>
+                <tr><td>Acoustic Night</td>
+                <td>My Room</td></tr>
+                <tr>
+                    <td>Roaming Around KU</td>
+                    <td>KU Cafe</td>
+                </tr>
+                <tr><td>My class Sometimes</td>
+                <td>Whole Ku</td></tr>
+            </table>
+            <hr>
+            <marquee>Pyaroooo KU</marquee>
+            <hr>
+            <img src="Ku.jpeg" alt="KU View">
+            <hr>
+            <iframe src="https://www.youtube.com/embed/_VQPFQMhl3s?si=137lnhx_Fzklol2f" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></iframe>
+            <span>Click Here:</span><a href="https://www.ku.edu.np/">Get to know more about KU</a>
+        </body>
+    
+</html>
